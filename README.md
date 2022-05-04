@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sojack
-- 👀 I’m interested in front-end web dev, javascript, 3D with blender
-- 🌱 I’m currently learning all the above
+- 👀 I’m interested in front-end web dev, Javascript, Blender 3D, React
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on all the above
 - 📫 How to reach me ...
